@@ -150,6 +150,6 @@ The interface is designed as a **modern AI dashboard** including:
 
 ## 👩‍💻 Author
 
-**Rehana Putri**  
+**Rehana Putri Salsabilla**  
 AI & Data Enthusiast  
 ---
